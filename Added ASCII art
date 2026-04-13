@@ -1,1 +1,5 @@
-
+Include ASCII art for chatbot UI.
+Added ConsoleColor green.
+Added ForegroundColor=DarkCyan.
+Added message color=White.
+Added size=30
